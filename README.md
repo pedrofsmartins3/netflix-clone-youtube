@@ -1,3 +1,3 @@
 Welcome to my Netflix Clone!
 
-![netflix](https://github.com/pedrofsmartins3/netflix-clone-youtube/assets/148903655/347444b5-83e6-44d1-996e-2fd3d5703bdc)
+![netflix](https://github.com/pedrofsmartins3/netflix-clone-youtube/assets/148903655/ad932628-c4b8-4d25-9b41-082329aed386)
